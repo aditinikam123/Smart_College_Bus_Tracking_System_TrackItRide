@@ -1,6 +1,6 @@
 # 🚌✨ Smart College Bus Tracking System ✨🗺️
 
-![Bus Tracking GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 ---
 
