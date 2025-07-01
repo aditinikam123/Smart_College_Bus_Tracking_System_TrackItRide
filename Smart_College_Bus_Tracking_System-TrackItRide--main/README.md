@@ -26,8 +26,6 @@ This project empowers students, drivers, and administrators with live bus tracki
 
 ## 🏗️ System Architecture
 
-![System Architecture GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
-
 ### Components
 
 - **Frontend (Flutter)**
